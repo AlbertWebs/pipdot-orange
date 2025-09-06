@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pipdot-fx-consultants",
+  "private_key_id": "2524637d742cb44f22cd1d324a971d33f4354ebb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC51zH80aFMnDI7\nduNprVpyvHNUe6/zz44u4vWhFgPDmT5DV9sPhSB6zGMTAk1UPx36xFLcYIZqXnnj\nUZEPVN7UIPjIAlBiaBTC2aYwJuHDKqwu2sOZ2eJA3jhjPfn0/LS11qKsUdLlR2uI\nr1yac5bQyMJBNcfunrEqCXqksa+O7SZmKrT84JUC/dqppScBES2YSGSQa5oQsbtC\nuzK4mBYFlto2JXQ6sz61tDtcEe/LQ1mRLLIGiosK+WUMm5JBCJxtgW8t1EJP5dFS\n3vCsIDIouuuUuo9JfG78sstCExsivfuQBtuE5PBhkNiuSn35VbOr1qashOw+AfEi\nfhO+YXgVAgMBAAECggEAJpOJCNXrCaASvU08f59AezirKApUx+N5vDnYiwuq1Ftn\nFUuTaXFVAKiUmEmOC8LeUkOWf7B5tnLOEmXIGsqfRqFhgwMX9JVuWdQcLzqi+oRN\nIZy/pZwY3yZBxjgDPtuGF4jqU6LYiEd/Bux/6H+9+rDxwd+MFPhUBknZb36C1sQA\nwptr94oeGWPVoxH2Jsy2Tp8WpfOdqxuQuOQsFH0SKI6ZB9PfmFG1LnLiTd29xnC1\nLXG4fqNO6ZdhVYeBH0QBtspMs2JN8kbNiJfqZrXjB18aUnHWELLxIcKMFqN8zg9q\n/hxcBUdHhU3SJOfMCWFkCCM6FxIjkU2Qnru6aifMgQKBgQDp1iYcaZeyYCr51MV4\ngrZkbW5GyIKiX9EN9ELkL1UOv4pe6wAjpgHrXj57u7XJ+75yd2VqOZOBAiS5+6VF\nLshLY6xIlcXsez30bXma7gkh2NJTMSiKvekV+GBBHtWa/0zG0JfyBN6Q/MGCFpsH\nHIrVtX5xS0p+TWUoN3sW0bJjfQKBgQDLdHcJRutxIpljhjjbHZOFIlHs6OltI6Tq\nCtvfkqYv48352vk3XHCjgNu6V99HOlvPudPQfOEbGrPLaoUeDKjtGZBv4I/HLeoH\nz/3HlGJNj1KfImHCQhdXHzNXm5utHzkIiMxI1sBayo1pDuEzjBLzdhhWAS1IUHzV\nVRA22TjaeQKBgGjmQMKOPBcxPRZGdS/Ss6/px4bJfJELGuV/pmJnOWkcVB6wnadg\nWYwVA0LOuoaaAJ2pIj29BobhR0iHs2SN0BzB4g/N4LRttSVp1xvBnScp9XCMpPtY\npq/MdKHCC2E1FmQ6P2+6731rZgPN0E4oZ7/nY4m/lPOEFNUtznI2MCihAoGBALi2\nqEv341H3w6Mj/QKSO5inrBGW9DZuIg+KhEza656XCC5Lq++jMXCAUP1BQil8xlY1\ntCSY/BaLi6imsOyzObrpdsTb8C05djxZjWJhSU55TN3FbVPchSxH22kykYf/zNv+\nttl6f3DubKxxIeyWw63eDgInV2FMEcntTKc/V+qhAoGBALUTbu8oL/oq6CYROafs\nA9FEiKwTy23e6Tt1TzpgL4mADtNK5dzib7tA2z6LztSIRLRew4KVpY0dW6izetrp\nyvxtNEtkoMJ1pxuOKo3YDDLPpX9woB2mwHjRkLAL/PRDkOTW3ABs9m8HHtmORy7A\nEN4pDvYhPM2TcN+phBkGFD6c\n-----END PRIVATE KEY-----\n",
+  "client_email": "pipdot-fx@pipdot-fx-consultants.iam.gserviceaccount.com",
+  "client_id": "108963622697538100417",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pipdot-fx%40pipdot-fx-consultants.iam.gserviceaccount.com"
+}
