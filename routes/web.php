@@ -14,6 +14,9 @@ use App\Http\Controllers\MpesaController;
 
 use App\Http\Controllers\BlogsController;
 
+use App\Http\Controllers\FileController;
+
+
 use App\Http\Controllers\CommentController;
 
 use App\Http\Controllers\CoursesController;
@@ -44,10 +47,6 @@ use Spatie\Honeypot\ProtectAgainstSpam;
 | contains the "web" middleware group. Now create something great!
 |
 */
-
-// Route::get('/', function () {
-//     return view('welcome');
-// });
 
 Route::get('/', [HomeController::class, 'index']);
 Route::get('/about-us', [HomeController::class, 'about']);

@@ -127,14 +127,14 @@
                                     </ul>
                                 </div>
                             </li>
-                            
+{{--                             
                             <li><a href="#">Resources<i class="fas fa-chevron-down"></i></a>
                                 <div class="uk-navbar-dropdown uk-navbar-dropdown-width-2">
                                     <div class="uk-navbar-dropdown-grid uk-child-width-1-2" data-uk-grid>
                                         <div>
                                             <ul class="uk-nav uk-navbar-dropdown-nav">
                                                 <li><a href="{{url('/')}}/articles">Our Blog<i class="fas fa-external-link-square-alt fa-sm"></i></a></li>
-                                                {{-- <li><a href="{{url('/')}}/student/forums">Forums</a></li> --}}
+                                                <li><a href="{{url('/')}}/student/forums">Forums</a></li>
                                                 <li><a href="{{url('/')}}/frequently-asked-questions">FAQ</a></li>
                                             </ul>
                                         </div>
@@ -145,7 +145,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </li>
+                            </li> --}}
                             <li><a href="{{url('/')}}/copy-trading">Copy Trading</a></li>
                             <li><a href="{{url('/')}}/contact-us">Contact US</a></li>
                         </ul>

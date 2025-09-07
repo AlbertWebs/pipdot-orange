@@ -73,4 +73,4 @@
         </div>
     </aside>
     <!-- widget content end -->
-</div><?php /**PATH /home/pipdotfx.com/public_html/resources/views/blog/sidebar.blade.php ENDPATH**/ ?>
+</div><?php /**PATH /home/designekta-studios/projects/pipdotfx/resources/views/blog/sidebar.blade.php ENDPATH**/ ?>

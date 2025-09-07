@@ -44,4 +44,4 @@
         </ul>
     </nav>
 <?php endif; ?>
-<?php /**PATH /home/pipdotfx.com/public_html/resources/views/vendor/pagination/default.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/designekta-studios/projects/pipdotfx/resources/views/vendor/pagination/default.blade.php ENDPATH**/ ?>

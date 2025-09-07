@@ -159,4 +159,4 @@ unset($__errorArgs, $__bag); ?>
     <?php endforeach; $__env->popLoop(); $loop = $__env->getLastLoop(); ?>
 
 
-<?php /**PATH /home/pipdotfx.com/public_html/resources/views/front/login.blade.php ENDPATH**/ ?>
+<?php /**PATH /home/designekta-studios/projects/pipdotfx/resources/views/front/login.blade.php ENDPATH**/ ?>

@@ -221,4 +221,4 @@
 <?php $__env->stopSection(); ?>
 
 
-<?php echo $__env->make('front.master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/pipdotfx.com/public_html/resources/views/blog/blog.blade.php ENDPATH**/ ?>
+<?php echo $__env->make('front.master', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH /home/designekta-studios/projects/pipdotfx/resources/views/blog/blog.blade.php ENDPATH**/ ?>

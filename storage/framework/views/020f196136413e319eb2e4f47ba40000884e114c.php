@@ -92,25 +92,7 @@
                                     </ul>
                                 </div>
                             </li>
-                            
-                            <li><a href="#">Resources<i class="fas fa-chevron-down"></i></a>
-                                <div class="uk-navbar-dropdown uk-navbar-dropdown-width-2">
-                                    <div class="uk-navbar-dropdown-grid uk-child-width-1-2" data-uk-grid>
-                                        <div>
-                                            <ul class="uk-nav uk-navbar-dropdown-nav">
-                                                <li><a href="<?php echo e(url('/')); ?>/articles">Our Blog<i class="fas fa-external-link-square-alt fa-sm"></i></a></li>
-                                                
-                                                <li><a href="<?php echo e(url('/')); ?>/frequently-asked-questions">FAQ</a></li>
-                                            </ul>
-                                        </div>
-                                        <div>
-                                            <ul class="uk-nav uk-navbar-dropdown-nav">
-                                                <li><a class="uk-disabled" href="#"><?php echo e($Settings->tagline); ?></a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </li>
+
                             <li><a href="<?php echo e(url('/')); ?>/copy-trading">Copy Trading</a></li>
                             <li><a href="<?php echo e(url('/')); ?>/contact-us">Contact US</a></li>
                         </ul>
